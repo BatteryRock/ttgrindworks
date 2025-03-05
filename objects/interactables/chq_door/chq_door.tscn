@@ -1,6 +1,6 @@
 [gd_scene load_steps=100 format=4 uid="uid://dunq1mgh6t4kc"]
 
-[ext_resource type="Script" path="res://objects/interactables/chq_door/chq_door.gd" id="1_kr1fc"]
+[ext_resource type="Script" uid="uid://dx4jcgliuyq7l" path="res://objects/interactables/chq_door/chq_door.gd" id="1_kr1fc"]
 [ext_resource type="Texture2D" uid="uid://ufw0rm8val7g" path="res://models/props/facility_objects/door/chq_door_0.png" id="2_dryf5"]
 [ext_resource type="Texture2D" uid="uid://bry32njriuedm" path="res://models/props/facility_objects/door/chq_door_1.png" id="3_cjkct"]
 [ext_resource type="Texture2D" uid="uid://ebov1ni7sf8m" path="res://models/props/facility_objects/door/chq_door_2.png" id="4_alpfm"]

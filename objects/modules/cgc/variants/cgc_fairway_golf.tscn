@@ -6,7 +6,7 @@
 [ext_resource type="PackedScene" uid="uid://5m1a0suouie8" path="res://objects/props/cgc/fence_with_end.tscn" id="4_qfsp3"]
 [ext_resource type="PackedScene" uid="uid://hjl7feh88kw3" path="res://objects/props/cgc/pillar.tscn" id="6_bdmfr"]
 [ext_resource type="PackedScene" uid="uid://pn7r3ut085aw" path="res://objects/props/cgc/hedge_pillar.tscn" id="7_m70eg"]
-[ext_resource type="Script" path="res://objects/interactables/mole_stomp/mole_stomp.gd" id="8_h3qo4"]
+[ext_resource type="Script" uid="uid://drb27rm4ffqxh" path="res://objects/interactables/mole_stomp/mole_stomp.gd" id="8_h3qo4"]
 [ext_resource type="PackedScene" uid="uid://c3x8mxt3ia342" path="res://models/props/cog_props/golf/golf_club.glb" id="9_c5qfw"]
 [ext_resource type="PackedScene" uid="uid://dxyq5lb5oineo" path="res://objects/interactables/treasure_chest/treasure_chest.tscn" id="10_lmehd"]
 [ext_resource type="PackedScene" uid="uid://d3br8qv0sep7h" path="res://objects/props/cgc/tree1.tscn" id="11_awqic"]

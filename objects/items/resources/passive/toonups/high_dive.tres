@@ -1,7 +1,7 @@
 [gd_resource type="Resource" script_class="Item" load_steps=3 format=3 uid="uid://ne6tolrsnqmn"]
 
 [ext_resource type="PackedScene" uid="uid://cdfhi2qb2lm0h" path="res://objects/items/custom/toonups/ladder_item.tscn" id="1_7x86c"]
-[ext_resource type="Script" path="res://objects/items/classes/item.gd" id="2_vtgrh"]
+[ext_resource type="Script" uid="uid://bx5m7cpq63lah" path="res://objects/items/classes/item.gd" id="2_vtgrh"]
 
 [resource]
 script = ExtResource("2_vtgrh")

@@ -1,7 +1,7 @@
 [gd_scene load_steps=61 format=3 uid="uid://ngmasf0ptf2v"]
 
 [ext_resource type="PackedScene" uid="uid://8fxlcrjxsfbe" path="res://models/cogs/suitc/suitc.glb" id="1_2eddg"]
-[ext_resource type="Script" path="res://objects/cog/suit_directory.gd" id="2_u4122"]
+[ext_resource type="Script" uid="uid://dckpev4yc3p78" path="res://objects/cog/suit_directory.gd" id="2_u4122"]
 [ext_resource type="Texture2D" uid="uid://btku14fh0vw7p" path="res://models/cogs/misc/hp_light/cog_light.png" id="4_60bt0"]
 [ext_resource type="Animation" uid="uid://bh0ytw8weu7wv" path="res://models/cogs/suitc/animations/anvil-drop.res" id="6_buv1x"]
 [ext_resource type="Animation" uid="uid://rulmhfjxmne3" path="res://models/cogs/suitc/animations/drop.res" id="7_jpo7v"]
@@ -36,7 +36,7 @@
 [ext_resource type="Animation" uid="uid://cjfwfj4tcrrxd" path="res://models/cogs/suitc/animations/sit-eat-in.res" id="33_yd0ju"]
 [ext_resource type="Animation" uid="uid://ujd4rqskx0in" path="res://models/cogs/suitc/animations/sit-eat-out.res" id="34_efge4"]
 [ext_resource type="Animation" uid="uid://byrvh08tny1gx" path="res://models/cogs/suitc/animations/sit-lose.res" id="35_6hjxi"]
-[ext_resource type="Script" path="res://objects/cog/nametag/cog_nametag_node.gd" id="36_6y1o7"]
+[ext_resource type="Script" uid="uid://cygd7dh26gctg" path="res://objects/cog/nametag/cog_nametag_node.gd" id="36_6y1o7"]
 [ext_resource type="Animation" uid="uid://d20n1wfvumlne" path="res://models/cogs/suitc/animations/soak.res" id="36_fl5qw"]
 [ext_resource type="Animation" uid="uid://p3hihnut7qdg" path="res://models/cogs/suitc/animations/speak.res" id="37_7aqbs"]
 [ext_resource type="Animation" uid="uid://x472udpawacs" path="res://models/cogs/suitc/animations/squirt-large.res" id="38_lsuay"]
@@ -3207,56 +3207,56 @@ tracks/131/keys = PackedFloat32Array(0, 1, 1, 1, 1)
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_dds7a"]
 _data = {
-"RESET": SubResource("Animation_j0yxf"),
-"anvil-drop": ExtResource("6_buv1x"),
-"buffed": ExtResource("50_448v4"),
-"clap": SubResource("Animation_mtkif"),
-"cross": ExtResource("49_xsfp2"),
-"drop": ExtResource("7_jpo7v"),
-"effort": ExtResource("8_yf4a7"),
-"finger-wag": ExtResource("9_6qjo6"),
-"flailing": ExtResource("10_ox4ib"),
-"fountain-pen": ExtResource("11_0cvd0"),
-"glower": ExtResource("12_k7som"),
-"halt": ExtResource("49_swae4"),
-"hypnotize": ExtResource("13_teii1"),
-"landing": ExtResource("14_5fd5h"),
-"laugh": ExtResource("51_jr8kp"),
-"leftsit-hungry": ExtResource("15_ucrsi"),
-"lured": ExtResource("16_6gfgk"),
-"magic1": ExtResource("17_3swg1"),
-"magic2": ExtResource("18_8xe3x"),
-"neutral": ExtResource("19_lavjj"),
-"pencil-sharpner": ExtResource("20_111kd"),
-"phone": ExtResource("21_lmolx"),
-"pickpocket": ExtResource("22_sngfa"),
-"pie-small": ExtResource("23_5jkm8"),
-"rake": ExtResource("24_ej8aj"),
-"rightsit-hungry": ExtResource("25_mx0c7"),
-"rubber-stamp": ExtResource("26_37wxo"),
-"shredder": ExtResource("27_uw2t8"),
-"sidestep-left": ExtResource("28_8poo5"),
-"sidestep-right": ExtResource("29_jgup2"),
-"sit": ExtResource("30_bcujf"),
-"sit-angry": ExtResource("31_j6snn"),
-"sit-eat": ExtResource("32_0qb3j"),
-"sit-eat-in": ExtResource("33_yd0ju"),
-"sit-eat-out": ExtResource("34_efge4"),
-"sit-lose": ExtResource("35_6hjxi"),
-"slip-backward": SubResource("Animation_byjrx"),
-"slip-forward": SubResource("Animation_65q8c"),
-"soak": ExtResource("36_fl5qw"),
-"speak": ExtResource("37_7aqbs"),
-"squirt-large": ExtResource("38_lsuay"),
-"squirt-small": ExtResource("39_5an3q"),
-"throw-paper": ExtResource("40_543qe"),
-"tray-neutral": ExtResource("41_ouwxa"),
-"tray-walk": ExtResource("42_hksmp"),
-"tug-o-war": ExtResource("43_ssxuy"),
-"victory": ExtResource("44_etke2"),
-"walk": ExtResource("45_mv0nj"),
-"walknreach": ExtResource("46_cbeyv"),
-"watercooler": ExtResource("47_81eyr")
+&"RESET": SubResource("Animation_j0yxf"),
+&"anvil-drop": ExtResource("6_buv1x"),
+&"buffed": ExtResource("50_448v4"),
+&"clap": SubResource("Animation_mtkif"),
+&"cross": ExtResource("49_xsfp2"),
+&"drop": ExtResource("7_jpo7v"),
+&"effort": ExtResource("8_yf4a7"),
+&"finger-wag": ExtResource("9_6qjo6"),
+&"flailing": ExtResource("10_ox4ib"),
+&"fountain-pen": ExtResource("11_0cvd0"),
+&"glower": ExtResource("12_k7som"),
+&"halt": ExtResource("49_swae4"),
+&"hypnotize": ExtResource("13_teii1"),
+&"landing": ExtResource("14_5fd5h"),
+&"laugh": ExtResource("51_jr8kp"),
+&"leftsit-hungry": ExtResource("15_ucrsi"),
+&"lured": ExtResource("16_6gfgk"),
+&"magic1": ExtResource("17_3swg1"),
+&"magic2": ExtResource("18_8xe3x"),
+&"neutral": ExtResource("19_lavjj"),
+&"pencil-sharpner": ExtResource("20_111kd"),
+&"phone": ExtResource("21_lmolx"),
+&"pickpocket": ExtResource("22_sngfa"),
+&"pie-small": ExtResource("23_5jkm8"),
+&"rake": ExtResource("24_ej8aj"),
+&"rightsit-hungry": ExtResource("25_mx0c7"),
+&"rubber-stamp": ExtResource("26_37wxo"),
+&"shredder": ExtResource("27_uw2t8"),
+&"sidestep-left": ExtResource("28_8poo5"),
+&"sidestep-right": ExtResource("29_jgup2"),
+&"sit": ExtResource("30_bcujf"),
+&"sit-angry": ExtResource("31_j6snn"),
+&"sit-eat": ExtResource("32_0qb3j"),
+&"sit-eat-in": ExtResource("33_yd0ju"),
+&"sit-eat-out": ExtResource("34_efge4"),
+&"sit-lose": ExtResource("35_6hjxi"),
+&"slip-backward": SubResource("Animation_byjrx"),
+&"slip-forward": SubResource("Animation_65q8c"),
+&"soak": ExtResource("36_fl5qw"),
+&"speak": ExtResource("37_7aqbs"),
+&"squirt-large": ExtResource("38_lsuay"),
+&"squirt-small": ExtResource("39_5an3q"),
+&"throw-paper": ExtResource("40_543qe"),
+&"tray-neutral": ExtResource("41_ouwxa"),
+&"tray-walk": ExtResource("42_hksmp"),
+&"tug-o-war": ExtResource("43_ssxuy"),
+&"victory": ExtResource("44_etke2"),
+&"walk": ExtResource("45_mv0nj"),
+&"walknreach": ExtResource("46_cbeyv"),
+&"watercooler": ExtResource("47_81eyr")
 }
 
 [node name="suitc" node_paths=PackedStringArray("skeleton", "animator", "wrists_and_shoes", "department_emblem", "health_meter", "nametag_node", "nametag", "head_node", "head_bone", "left_hand_bone", "right_hand_bone", "right_index_bone", "health_bone", "color_overlay_meshes") instance=ExtResource("1_2eddg")]

@@ -1,7 +1,7 @@
 [gd_resource type="Resource" script_class="CogPool" load_steps=25 format=3 uid="uid://bmj3cbv7sk3jj"]
 
-[ext_resource type="Script" path="res://objects/cog/cogdna.gd" id="1_lsh24"]
-[ext_resource type="Script" path="res://objects/cog/cog_pool.gd" id="2_7nern"]
+[ext_resource type="Script" uid="uid://b6wg1k20xm2vc" path="res://objects/cog/cogdna.gd" id="1_lsh24"]
+[ext_resource type="Script" uid="uid://bmds1c4f0wj40" path="res://objects/cog/cog_pool.gd" id="2_7nern"]
 [ext_resource type="Resource" uid="uid://ch01vicvrjrve" path="res://objects/cog/presets/bossbot/pushed_pencil.tres" id="2_qrj4r"]
 [ext_resource type="Resource" uid="uid://db873b4wfde6n" path="res://objects/cog/presets/cashbot/nickel_nabber.tres" id="3_l57fc"]
 [ext_resource type="Resource" uid="uid://baaxso4jhvinp" path="res://objects/cog/presets/cashbot/quarter_catcher.tres" id="4_odnjs"]

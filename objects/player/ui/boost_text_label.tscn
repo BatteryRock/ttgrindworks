@@ -66,8 +66,8 @@ tracks/1/keys = {
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_lg5g4"]
 _data = {
-"RESET": SubResource("Animation_wsu2f"),
-"text": SubResource("Animation_46ksh")
+&"RESET": SubResource("Animation_wsu2f"),
+&"text": SubResource("Animation_46ksh")
 }
 
 [node name="BoostTextLabel" type="Control"]

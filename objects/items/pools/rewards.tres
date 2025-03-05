@@ -1,8 +1,8 @@
 [gd_resource type="Resource" script_class="ItemPool" load_steps=51 format=3 uid="uid://c1ieqc06wj6gp"]
 
-[ext_resource type="Script" path="res://objects/items/classes/item.gd" id="1_i7bw1"]
+[ext_resource type="Script" uid="uid://bx5m7cpq63lah" path="res://objects/items/classes/item.gd" id="1_i7bw1"]
 [ext_resource type="Resource" uid="uid://ba7mgoe7i5oq4" path="res://objects/items/resources/accessories/backpacks/gag_pack.tres" id="2_8d4x4"]
-[ext_resource type="Script" path="res://objects/items/classes/item_pool.gd" id="2_jgemf"]
+[ext_resource type="Script" uid="uid://45ymaldtx46d" path="res://objects/items/classes/item_pool.gd" id="2_jgemf"]
 [ext_resource type="Resource" uid="uid://crdgysckbi0r" path="res://objects/items/resources/accessories/backpacks/bat_wings.tres" id="2_xiimb"]
 [ext_resource type="Resource" uid="uid://bfiv6exev26qj" path="res://objects/items/resources/accessories/backpacks/jamboree_pack.tres" id="3_gpwbd"]
 [ext_resource type="Resource" uid="uid://dew5y5asdfaph" path="res://objects/items/resources/accessories/backpacks/small_pouch.tres" id="7_qyb58"]

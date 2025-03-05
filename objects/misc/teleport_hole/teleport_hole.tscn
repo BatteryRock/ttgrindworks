@@ -156,9 +156,9 @@ tracks/2/keys = {
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_jvtrx"]
 _data = {
-"RESET": SubResource("Animation_7mpre"),
-"grow": SubResource("Animation_xmw47"),
-"shrink": SubResource("Animation_6beha")
+&"RESET": SubResource("Animation_7mpre"),
+&"grow": SubResource("Animation_xmw47"),
+&"shrink": SubResource("Animation_6beha")
 }
 
 [node name="TeleportHole" type="Node3D"]

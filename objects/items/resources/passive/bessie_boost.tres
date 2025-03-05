@@ -1,7 +1,7 @@
 [gd_resource type="Resource" script_class="Item" load_steps=3 format=3 uid="uid://w2jk7lsyrodm"]
 
-[ext_resource type="Script" path="res://objects/items/custom/item_bessie_boost.gd" id="1_80khx"]
-[ext_resource type="Script" path="res://objects/items/classes/item.gd" id="1_cjveb"]
+[ext_resource type="Script" uid="uid://b3bck42gqi1qw" path="res://objects/items/custom/item_bessie_boost.gd" id="1_80khx"]
+[ext_resource type="Script" uid="uid://bx5m7cpq63lah" path="res://objects/items/classes/item.gd" id="1_cjveb"]
 
 [resource]
 script = ExtResource("1_cjveb")

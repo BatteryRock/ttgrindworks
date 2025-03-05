@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="ReleaseNote" load_steps=2 format=3 uid="uid://bw8jta1tqisll"]
 
-[ext_resource type="Script" path="res://scenes/title_screen/release_notes/release_note.gd" id="1_6kjba"]
+[ext_resource type="Script" uid="uid://cex325meeuuj5" path="res://scenes/title_screen/release_notes/release_note.gd" id="1_6kjba"]
 
 [resource]
 script = ExtResource("1_6kjba")

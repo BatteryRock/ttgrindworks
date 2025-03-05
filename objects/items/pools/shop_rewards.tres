@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="ItemPool" load_steps=45 format=3 uid="uid://br3mtjoo6t1xc"]
 
-[ext_resource type="Script" path="res://objects/items/classes/item.gd" id="1_7i42i"]
+[ext_resource type="Script" uid="uid://bx5m7cpq63lah" path="res://objects/items/classes/item.gd" id="1_7i42i"]
 [ext_resource type="Resource" uid="uid://ba7mgoe7i5oq4" path="res://objects/items/resources/accessories/backpacks/gag_pack.tres" id="2_ffu8s"]
 [ext_resource type="Resource" uid="uid://cmqswwdbcxkk1" path="res://objects/items/resources/accessories/glasses/celebrity_shades.tres" id="4_n5156"]
 [ext_resource type="Resource" uid="uid://cmrx0t67871w2" path="res://objects/items/resources/accessories/backpacks/shark_fin.tres" id="7_vxn22"]
@@ -16,7 +16,7 @@
 [ext_resource type="Resource" uid="uid://b211fi66w3yso" path="res://objects/items/resources/accessories/hats/archer_hat.tres" id="17_krp3h"]
 [ext_resource type="Resource" uid="uid://r5ubyo8osu6k" path="res://objects/items/resources/passive/doodle.tres" id="18_8n2mt"]
 [ext_resource type="Resource" uid="uid://uidr04b5nmgu" path="res://objects/items/resources/accessories/hats/chef_hat.tres" id="18_mftg4"]
-[ext_resource type="Script" path="res://objects/items/classes/item_pool.gd" id="18_ubwkd"]
+[ext_resource type="Script" uid="uid://45ymaldtx46d" path="res://objects/items/classes/item_pool.gd" id="18_ubwkd"]
 [ext_resource type="Resource" uid="uid://b77qp325baypa" path="res://objects/items/resources/passive/pink_slip.tres" id="19_4d72q"]
 [ext_resource type="Resource" uid="uid://d66bi5sfu5op" path="res://objects/items/resources/accessories/hats/conductor_hat.tres" id="19_u2mhm"]
 [ext_resource type="Resource" uid="uid://d2m4dg65lxkhj" path="res://objects/items/resources/accessories/hats/anti_cog_control_hat.tres" id="20_drih5"]

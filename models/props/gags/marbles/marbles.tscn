@@ -287,7 +287,7 @@ tracks/13/keys = PackedFloat32Array(0, 1, 4.88361e-06, 8.12802e-06, -3.96941e-11
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_1enp5"]
 _data = {
-"toss": SubResource("Animation_xaqkh")
+&"toss": SubResource("Animation_xaqkh")
 }
 
 [node name="marbles2" type="Node3D"]

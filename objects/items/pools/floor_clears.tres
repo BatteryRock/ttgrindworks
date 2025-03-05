@@ -1,7 +1,7 @@
 [gd_resource type="Resource" script_class="ItemPool" load_steps=42 format=3 uid="uid://c3qiutmmffpq"]
 
-[ext_resource type="Script" path="res://objects/items/classes/item.gd" id="1_lqu8b"]
-[ext_resource type="Script" path="res://objects/items/classes/item_pool.gd" id="2_pc1nw"]
+[ext_resource type="Script" uid="uid://bx5m7cpq63lah" path="res://objects/items/classes/item.gd" id="1_lqu8b"]
+[ext_resource type="Script" uid="uid://45ymaldtx46d" path="res://objects/items/classes/item_pool.gd" id="2_pc1nw"]
 [ext_resource type="Resource" uid="uid://ba7mgoe7i5oq4" path="res://objects/items/resources/accessories/backpacks/gag_pack.tres" id="3_n0d8n"]
 [ext_resource type="Resource" uid="uid://dew5y5asdfaph" path="res://objects/items/resources/accessories/backpacks/small_pouch.tres" id="6_18vta"]
 [ext_resource type="Resource" uid="uid://cuuiafxrn4awf" path="res://objects/items/resources/accessories/backpacks/cog_pack.tres" id="6_x0cxo"]

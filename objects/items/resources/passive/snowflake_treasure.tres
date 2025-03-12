@@ -2,7 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://cqx2ellqku7do" path="res://objects/items/custom/treasure/snow_particle.png" id="1_hn3le"]
 [ext_resource type="PackedScene" uid="uid://bmkdj1ocsunjm" path="res://objects/items/custom/treasure/treasure.tscn" id="2_ito7a"]
-[ext_resource type="Script" uid="uid://bx5m7cpq63lah" path="res://objects/items/classes/item.gd" id="3_5ixlr"]
+[ext_resource type="Script" path="res://objects/items/classes/item.gd" id="3_5ixlr"]
 [ext_resource type="AudioStream" uid="uid://xd35cu8acybx" path="res://audio/sfx/battle/gags/toonup/sparkly.ogg" id="3_pkgff"]
 
 [resource]

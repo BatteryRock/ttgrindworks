@@ -1,7 +1,7 @@
 [gd_resource type="Resource" script_class="Item" load_steps=3 format=3 uid="uid://dua74bqlj5ep1"]
 
 [ext_resource type="PackedScene" uid="uid://ccvkulvc6sjox" path="res://objects/items/custom/toonups/megaphone_item.tscn" id="2_ejggo"]
-[ext_resource type="Script" uid="uid://bx5m7cpq63lah" path="res://objects/items/classes/item.gd" id="3_yikpy"]
+[ext_resource type="Script" path="res://objects/items/classes/item.gd" id="3_yikpy"]
 
 [resource]
 script = ExtResource("3_yikpy")
@@ -25,4 +25,3 @@ remember_item = false
 shop_category_title = "Consumable"
 shop_category_color = Color(0.105882, 0.54902, 0.537255, 1)
 force_show_shop_category = true
-custom_shop_price = 0

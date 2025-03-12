@@ -1,14 +1,14 @@
 [gd_scene load_steps=16 format=3 uid="uid://utwlvgq8mlgv"]
 
-[ext_resource type="Script" uid="uid://c5yuokps8db45" path="res://objects/doodle/roaming_doodle/roaming_doodle.gd" id="1_dy8iu"]
+[ext_resource type="Script" path="res://objects/doodle/roaming_doodle/roaming_doodle.gd" id="1_dy8iu"]
 [ext_resource type="PackedScene" uid="uid://dbcmfw8e67wkl" path="res://objects/doodle/doodle_mod.tscn" id="2_57yw2"]
-[ext_resource type="Script" uid="uid://tpv00nf8p0vh" path="res://objects/battle/battle_resources/doodle_actions/doodle_action.gd" id="2_msfie"]
+[ext_resource type="Script" path="res://objects/battle/battle_resources/doodle_actions/doodle_action.gd" id="2_msfie"]
 [ext_resource type="PackedScene" uid="uid://suibio7o1avg" path="res://objects/misc/drop_shadow/drop_shadow.tscn" id="3_tqv7o"]
-[ext_resource type="Script" uid="uid://grfko726ggr6" path="res://objects/battle/battle_resources/doodle_actions/doodle_jump.gd" id="3_xx7sp"]
-[ext_resource type="Script" uid="uid://bm2as1y8fyrfa" path="res://objects/battle/battle_resources/doodle_actions/doodle_backflip.gd" id="4_0gpjk"]
-[ext_resource type="Script" uid="uid://t3yquv8vbs37" path="res://objects/battle/battle_resources/doodle_actions/doodle_playdead.gd" id="5_vp8wd"]
-[ext_resource type="Script" uid="uid://bgypd2fnlcipv" path="res://objects/battle/battle_resources/doodle_actions/doodle_rollover.gd" id="6_ritgp"]
-[ext_resource type="Script" uid="uid://b4othxrna1brh" path="res://objects/battle/battle_resources/doodle_actions/doodle_speak.gd" id="7_eviyd"]
+[ext_resource type="Script" path="res://objects/battle/battle_resources/doodle_actions/doodle_jump.gd" id="3_xx7sp"]
+[ext_resource type="Script" path="res://objects/battle/battle_resources/doodle_actions/doodle_backflip.gd" id="4_0gpjk"]
+[ext_resource type="Script" path="res://objects/battle/battle_resources/doodle_actions/doodle_playdead.gd" id="5_vp8wd"]
+[ext_resource type="Script" path="res://objects/battle/battle_resources/doodle_actions/doodle_rollover.gd" id="6_ritgp"]
+[ext_resource type="Script" path="res://objects/battle/battle_resources/doodle_actions/doodle_speak.gd" id="7_eviyd"]
 
 [sub_resource type="Resource" id="Resource_ds0yl"]
 script = ExtResource("3_xx7sp")

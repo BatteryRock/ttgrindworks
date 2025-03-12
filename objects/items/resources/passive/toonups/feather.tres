@@ -1,7 +1,7 @@
 [gd_resource type="Resource" script_class="Item" load_steps=3 format=3 uid="uid://c5cavaivrrvb"]
 
 [ext_resource type="PackedScene" uid="uid://cp3jaujrj4tyk" path="res://objects/items/custom/toonups/feather_item.tscn" id="2_32jj2"]
-[ext_resource type="Script" uid="uid://bx5m7cpq63lah" path="res://objects/items/classes/item.gd" id="3_l5yp1"]
+[ext_resource type="Script" path="res://objects/items/classes/item.gd" id="3_l5yp1"]
 
 [resource]
 script = ExtResource("3_l5yp1")

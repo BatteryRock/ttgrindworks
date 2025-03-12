@@ -1,10 +1,10 @@
 [gd_scene load_steps=44 format=4 uid="uid://bs24a1pbm1pba"]
 
 [ext_resource type="PackedScene" uid="uid://cqahudkf6anvg" path="res://models/facilities/factory/factory_paint_l_room.fbx" id="1_jv2l6"]
-[ext_resource type="Script" uid="uid://b87r0mp4mul4m" path="res://objects/modules/factory/base_rooms/factory_paint_l_room.gd" id="2_6tj2p"]
+[ext_resource type="Script" path="res://objects/modules/factory/base_rooms/factory_paint_l_room.gd" id="2_6tj2p"]
 [ext_resource type="Texture2D" uid="uid://do8mo6ao1sm0e" path="res://models/facilities/factory/FINALFACTORY_66.png" id="2_qrvgo"]
 [ext_resource type="Texture2D" uid="uid://d35gru1sglser" path="res://models/facilities/factory/FINALFACTORY_24.png" id="3_ucoje"]
-[ext_resource type="Texture2D" uid="uid://c8sgqg0k3tmlw" path="res://models/facilities/factory/FINALFACTORY_65.png" id="4_7iwnu"]
+[ext_resource type="Texture2D" uid="uid://ckjvdqmnty5ng" path="res://models/facilities/factory/FINALFACTORY_65.png" id="4_7iwnu"]
 [ext_resource type="Texture2D" uid="uid://lug01s8ijo22" path="res://models/facilities/factory/FINALFACTORY_2.png" id="5_7gqh6"]
 [ext_resource type="Texture2D" uid="uid://k0ae0ls3xljl" path="res://models/facilities/factory/FINALFACTORY_116.png" id="6_ol8hr"]
 [ext_resource type="Texture2D" uid="uid://dai74xkx6u3dv" path="res://models/facilities/factory/FINALFACTORY_107.png" id="7_yuf6p"]
@@ -13,7 +13,7 @@
 [ext_resource type="Texture2D" uid="uid://bfarayhobfa4j" path="res://models/facilities/factory/GearEdgePaint.png" id="10_v5a8t"]
 [ext_resource type="Texture2D" uid="uid://conb0dcb5scpe" path="res://models/facilities/factory/GearCap1.png" id="11_jp1gv"]
 [ext_resource type="PackedScene" uid="uid://dmv7dbgr2b2nr" path="res://objects/obstacles/lava_floor/lava_floor.tscn" id="12_s3kry"]
-[ext_resource type="Shader" uid="uid://ctfb2dwv4yiph" path="res://general_resources/shaders/liquid_shader.gdshader" id="13_qwjlu"]
+[ext_resource type="Shader" path="res://general_resources/shaders/liquid_shader.gdshader" id="13_qwjlu"]
 [ext_resource type="Texture2D" uid="uid://dj5lnvim0vwrs" path="res://models/facilities/factory/SB_Paint.png" id="14_i41qd"]
 [ext_resource type="PackedScene" uid="uid://dgjcjdwr47ch7" path="res://objects/props/factory/smoke_particles.tscn" id="16_1jb32"]
 
@@ -425,11 +425,11 @@ resource_name = "lava"
 render_priority = 0
 shader = ExtResource("13_qwjlu")
 shader_parameter/albedo = Color(0.847474, 0.847474, 0.847474, 1)
-shader_parameter/texture_albedo = ExtResource("14_i41qd")
 shader_parameter/uv1_scale = Vector3(1, 1, 1)
 shader_parameter/uv1_offset = Vector3(0, 0, 0)
 shader_parameter/uv1_scroll = 0.01
 shader_parameter/height_scale = 0.3
+shader_parameter/texture_albedo = ExtResource("14_i41qd")
 shader_parameter/displacement = SubResource("NoiseTexture2D_r0pwm")
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_cm1h1"]

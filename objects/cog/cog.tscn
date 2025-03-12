@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://dflwjcy6fj0av"]
 
-[ext_resource type="Script" uid="uid://w7ie4hqi4f4s" path="res://objects/cog/cog.gd" id="1_datdb"]
+[ext_resource type="Script" path="res://objects/cog/cog.gd" id="1_datdb"]
 [ext_resource type="Resource" uid="uid://bnubj377geur5" path="res://objects/cog/presets/pools/grunt_cogs.tres" id="2_5kx02"]
 [ext_resource type="PackedScene" uid="uid://suibio7o1avg" path="res://objects/misc/drop_shadow/drop_shadow.tscn" id="9_bjhmd"]
 

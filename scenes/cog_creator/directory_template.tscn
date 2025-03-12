@@ -1,7 +1,7 @@
 [gd_scene load_steps=12 format=3 uid="uid://dtt6wufe1nbkt"]
 
 [ext_resource type="Texture2D" uid="uid://6jo5d4qtcd44" path="res://ui_assets/general/panel.png" id="1_vimnd"]
-[ext_resource type="Script" uid="uid://cfph1c1t3a2qy" path="res://scenes/cog_creator/directory_template.gd" id="2_0hv1k"]
+[ext_resource type="Script" path="res://scenes/cog_creator/directory_template.gd" id="2_0hv1k"]
 [ext_resource type="FontFile" uid="uid://815gwlftl5ik" path="res://fonts/impress-bt.ttf" id="2_ekq46"]
 [ext_resource type="PackedScene" uid="uid://b0d1er4oqiqcn" path="res://objects/general_ui/general_button/general_button.tscn" id="5_pr71t"]
 [ext_resource type="Texture2D" uid="uid://ddcktpjy3gdew" path="res://ui_assets/misc/uiAccessoryDelete_up.png" id="6_c3pty"]

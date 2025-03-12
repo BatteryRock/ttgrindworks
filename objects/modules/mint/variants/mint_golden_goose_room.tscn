@@ -2,7 +2,7 @@
 
 [ext_resource type="PackedScene" uid="uid://dxa3077q0m2lo" path="res://objects/modules/mint/base_rooms/mint_shelf_room.tscn" id="1_hnu3i"]
 [ext_resource type="PackedScene" uid="uid://62mqao2o2egv" path="res://objects/props/mint/shelf_gold.tscn" id="2_soc5q"]
-[ext_resource type="Script" uid="uid://kmwu3dnhe64t" path="res://objects/modules/mint/variants/mint_golden_goose_room.gd" id="2_sveym"]
+[ext_resource type="Script" path="res://objects/modules/mint/variants/mint_golden_goose_room.gd" id="2_sveym"]
 [ext_resource type="PackedScene" uid="uid://duuriwh75afua" path="res://objects/props/mint/mint_crate.tscn" id="3_0e6qa"]
 [ext_resource type="PackedScene" uid="uid://3opgp6apv4g0" path="res://objects/interactables/elevators/mint_elevator.tscn" id="3_ty680"]
 [ext_resource type="PackedScene" uid="uid://p33fqws4qewy" path="res://objects/obstacles/conveyer_belt/conveyer_belt.tscn" id="4_dm27t"]
